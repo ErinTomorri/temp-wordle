@@ -1,6 +1,6 @@
 import glob
 import os
-
+#this does not work
 def words():
     list = []
     word = ""
